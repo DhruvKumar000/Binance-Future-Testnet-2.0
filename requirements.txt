@@ -7,3 +7,7 @@ tensorflow>=2.15.0        # LSTM neural network (Keras API)
 scikit-learn>=1.4.0       # MinMaxScaler, train_test_split
 pandas>=2.0.0             # DataFrame for OHLCV data and feature engineering
 numpy>=1.26.0             # Array operations for model input/output sequences
+
+# ── Dashboard / Web UI ────────────────────────────────────────────────────────
+streamlit>=1.28.0         # Web dashboard framework
+plotly>=5.17.0            # Interactive charts and visualizations
